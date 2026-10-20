@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a0000"/>
+      <stop offset="1" stop-color="#cc0000"/>
+    </linearGradient>
+  </defs>
+
+  <!-- lapisan darah tebal -->
+  <rect x="0" y="0" width="1000" height="22" fill="#4a0000"/>
+  <g fill="#4a0000">
+    <circle cx="30" cy="22" r="10"/><circle cx="95" cy="22" r="13"/><circle cx="160" cy="22" r="9"/>
+    <circle cx="235" cy="22" r="14"/><circle cx="300" cy="22" r="10"/><circle cx="375" cy="22" r="12"/>
+    <circle cx="445" cy="22" r="9"/><circle cx="520" cy="22" r="14"/><circle cx="595" cy="22" r="10"/>
+    <circle cx="665" cy="22" r="13"/><circle cx="740" cy="22" r="9"/><circle cx="815" cy="22" r="14"/>
+    <circle cx="885" cy="22" r="10"/><circle cx="955" cy="22" r="12"/>
+  </g>
+
+  <!-- tetesan -->
+  <rect x="40" y="0" width="9" height="26" rx="4.5" fill="url(#b)"><animate attributeName="height" values="26;70;26" dur="6s" repeatCount="indefinite"/></rect>
+  <circle cx="44.5" r="8" fill="#cc0000"><animate attributeName="cy" values="23.3;67.3;23.3" dur="6s" repeatCount="indefinite"/></circle>
+
+  <rect x="110" y="0" width="6" height="24" rx="3" fill="url(#b)"><animate attributeName="height" values="24;48;24" dur="4.5s" begin="1s" repeatCount="indefinite"/></rect>
+  <circle cx="113" r="5.5" fill="#cc0000"><animate attributeName="cy" values="22.2;46.2;22.2" dur="4.5s" begin="1s" repeatCount="indefinite"/></circle>
+
+  <rect x="175" y="0" width="11" height="28" rx="5.5" fill="url(#b)"><animate attributeName="height" values="28;95;28" dur="7s" begin="0.5s" repeatCount="indefinite"/></rect>
+  <circle cx="180.5" r="10" fill="#cc0000"><animate attributeName="cy" values="24.7;91.7;24.7" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
+
+  <rect x="250" y="0" width="7" height="25" rx="3.5" fill="url(#b)"><animate attributeName="height" values="25;55;25" dur="5s" begin="2s" repeatCount="indefinite"/></rect>
+  <circle cx="253.5" r="6.5" fill="#cc0000"><animate attributeName="cy" values="22.9;52.9;22.9" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+
+  <rect x="330" y="0" width="9" height="26" rx="4.5" fill="url(#b)"><animate attributeName="height" values="26;80;26" dur="6.5s" begin="1.5s" repeatCount="indefinite"/></rect>
+  <circle cx="334.5" r="8" fill="#cc0000"><animate attributeName="cy" values="23.3;77.3;23.3" dur="6.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+
+  <rect x="410" y="0" width="6" height="24" rx="3" fill="url(#b)"><animate attributeName="height" values="24;45;24" dur="4s" begin="0.3s" repeatCount="indefinite"/></rect>
+  <circle cx="413" r="5.5" fill="#cc0000"><animate attributeName="cy" values="22.2;43.2;22.2" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+
+  <rect x="480" y="0" width="12" height="28" rx="6" fill="url(#b)"><animate attributeName="height" values="28;105;28" dur="7.5s" begin="3s" repeatCount="indefinite"/></rect>
+  <circle cx="486" r="11" fill="#cc0000"><animate attributeName="cy" values="24.4;101.4;24.4" dur="7.5s" begin="3s" repeatCount="indefinite"/></circle>
+
+  <rect x="560" y="0" width="7" height="25" rx="3.5" fill="url(#b)"><animate attributeName="height" values="25;58;25" dur="5s" begin="2.2s" repeatCount="indefinite"/></rect>
+  <circle cx="563.5" r="6.5" fill="#cc0000"><animate attributeName="cy" values="22.9;55.9;22.9" dur="5s" begin="2.2s" repeatCount="indefinite"/></circle>
+
+  <rect x="640" y="0" width="10" height="27" rx="5" fill="url(#b)"><animate attributeName="height" values="27;88;27" dur="6.8s" begin="0.8s" repeatCount="indefinite"/></rect>
+  <circle cx="645" r="9" fill="#cc0000"><animate attributeName="cy" values="24;85;24" dur="6.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+
+  <rect x="720" y="0" width="6" height="24" rx="3" fill="url(#b)"><animate attributeName="height" values="24;50;24" dur="4.2s" begin="1.7s" repeatCount="indefinite"/></rect>
+  <circle cx="723" r="5.5" fill="#cc0000"><animate attributeName="cy" values="22.2;48.2;22.2" dur="4.2s" begin="1.7s" repeatCount="indefinite"/></circle>
+
+  <rect x="790" y="0" width="9" height="26" rx="4.5" fill="url(#b)"><animate attributeName="height" values="26;72;26" dur="6s" begin="2.8s" repeatCount="indefinite"/></rect>
+  <circle cx="794.5" r="8" fill="#cc0000"><animate attributeName="cy" values="23.3;69.3;23.3" dur="6s" begin="2.8s" repeatCount="indefinite"/></circle>
+
+  <rect x="860" y="0" width="12" height="28" rx="6" fill="url(#b)"><animate attributeName="height" values="28;100;28" dur="7.2s" begin="0.2s" repeatCount="indefinite"/></rect>
+  <circle cx="866" r="11" fill="#cc0000"><animate attributeName="cy" values="24.4;96.4;24.4" dur="7.2s" begin="0.2s" repeatCount="indefinite"/></circle>
+
+  <rect x="930" y="0" width="7" height="25" rx="3.5" fill="url(#b)"><animate attributeName="height" values="25;60;25" dur="5.2s" begin="1.2s" repeatCount="indefinite"/></rect>
+  <circle cx="933.5" r="6.5" fill="#cc0000"><animate attributeName="cy" values="22.9;57.9;22.9" dur="5.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+
+  <rect x="975" y="0" width="5" height="24" rx="2.5" fill="url(#b)"><animate attributeName="height" values="24;42;24" dur="4s" begin="2.5s" repeatCount="indefinite"/></rect>
+  <circle cx="977.5" r="4.5" fill="#cc0000"><animate attributeName="cy" values="22.5;40.5;22.5" dur="4s" begin="2.5s" repeatCount="indefinite"/></circle>
+</svg>
