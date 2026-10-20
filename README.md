@@ -1,45 +1,51 @@
-<!-- HEADER ANIMASI -->
+<!-- HEADER HORROR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Martin%20Hattarajasa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8b0000,100:000000&height=260&section=header&text=Martin%20Hattarajasa&fontSize=52&fontColor=ff1a1a&animation=twinkling&fontAlignY=38&desc=%E2%98%A0%20Fullstack%20Developer%20%E2%98%A0&descAlignY=60&descSize=22&descColor=c9c9c9" width="100%" />
 </div>
 
 <!-- TEKS MENGETIK -->
 <div align="center">
   <a href="https://github.com/HattarajasaMartin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&width=600&lines=Hi%2C+aku+Martin+%F0%9F%91%8B;Fullstack+Developer;Next.js+%7C+Laravel+%7C+Express.js;Open+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=34&duration=3500&pause=1200&color=FF1A1A&center=true&vCenter=true&width=700&height=60&lines=Selamat+datang+di+kegelapan+kode...;Aku+Martin%2C+Fullstack+Developer+%F0%9F%A9%B8;Bug+nggak+akan+bisa+bersembunyi+%F0%9F%91%81%EF%B8%8F;Open+for+freelance+projects+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HattarajasaMartin&label=Profile%20views&color=f75c7e&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/HattarajasaMartin?style=for-the-badge&logo=github&color=f75c7e" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=HattarajasaMartin&label=Jiwa%20yang%20berkunjung&color=8b0000&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/HattarajasaMartin?style=for-the-badge&logo=github&label=Pengikut%20setia&color=8b0000&labelColor=0d0000" alt="followers" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 👨‍💻 Tentang Saya
+## 🕯️ Tentang Si Penghuni
 
-- 💻 Fullstack developer yang suka bikin web app dari frontend sampai backend
-- 💼 Freelancer di **Fastwork**, fokus bantu bisnis kecil bikin website & aplikasi
-- 🛠️ Sehari-hari pakai **Next.js, TypeScript, Tailwind, Express, Prisma, Laravel**
-- 🌱 Terus belajar dan upgrade skill setiap hari
+```diff
+- Bug: hidup tenang
++ Martin: hadir untuk memburu mereka
+```
 
----
+- 💀 Fullstack developer yang menjelajah dari frontend sampai backend
+- 🩸 Freelancer di **Fastwork**, membantu bisnis kecil menghidupkan website & aplikasi
+- 🔪 Senjata andalan: **Next.js, TypeScript, Tailwind, Express, Prisma, Laravel**
+- 🦇 Aktif paling produktif saat tengah malam
+- 👻 Terus belajar, karena kegelapan nggak pernah berhenti berkembang
 
-## 🌐 Socials
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
+
+## 📡 Panggil Arwahku
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/martin-hattarajasa-5208b43bb/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/malenia_x8x"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/martin.hatarajasa.7"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="mailto:hattarajasamartin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/martin-hattarajasa-5208b43bb/"><img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/malenia_x8x"><img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/martin.hatarajasa.7"><img src="https://img.shields.io/badge/Facebook-8b0000?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="mailto:hattarajasamartin@gmail.com"><img src="https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 💻 Tech Stack
+## ⚰️ Gudang Senjata
 
 <div align="center">
 
@@ -57,43 +63,46 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 📊 GitHub Stats
+## 🩸 Catatan Darah (GitHub Stats)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=HattarajasaMartin&theme=rose&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HattarajasaMartin&theme=rose&hide_border=true&layout=compact" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=HattarajasaMartin&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=ff1a1a&icon_color=ff1a1a&text_color=c9c9c9&bg_color=0d0000" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HattarajasaMartin&hide_border=true&layout=compact&title_color=ff1a1a&text_color=c9c9c9&bg_color=0d0000" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=HattarajasaMartin&theme=rose&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HattarajasaMartin&hide_border=true&background=0d0000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ff1a1a&sideNums=ff1a1a&currStreakLabel=ff1a1a&sideLabels=c9c9c9&dates=8b8b8b" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 📈 Activity Graph
+## 📈 Detak Jantung (Activity Graph)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HattarajasaMartin&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&area_color=f75c7e&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HattarajasaMartin&bg_color=0d0000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="100%" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 🐍 Contribution Snake
+## 🐍 Ular Pemakan Kontribusi
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/output/github-snake-horror.svg" alt="snake animation" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b0000,100:000000&height=3&section=header" width="100%" />
 
-## 🏆 Trophies
+## 🏆 Piala Dari Alam Baka
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HattarajasaMartin&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HattarajasaMartin&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+  <i>"Setiap bug yang mati hari ini, ada dua yang lahir besok."</i> 🕷️
 </div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=120&section=footer&animation=twinkling" width="100%" />
