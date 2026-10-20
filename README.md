@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4a0000,100:8a0303&height=260&section=header&text=Martin%20Hattarajasa&fontSize=52&fontColor=ff0000&stroke=2a0000&strokeWidth=3&animation=twinkling&fontAlignY=36&desc=%E2%98%A0%20Fullstack%20Developer%20%E2%98%A0&descAlignY=60&descSize=22&descColor=d9d9d9" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/header.svg?v=1" width="100%" />
 
 <div align="center">
   <a href="https://github.com/HattarajasaMartin">
-    <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=36&duration=3500&pause=1200&color=CC0000&center=true&vCenter=true&width=800&height=70&lines=Kode+ditulis+dengan+darah...;Aku+menguliti+bug+sampai+ke+tulang+%F0%9F%A6%B4;Fullstack+Developer+%F0%9F%94%AA;Open+for+freelance+projects+%F0%9F%92%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=38&duration=3500&pause=1000&color=CC0000&center=true&vCenter=true&width=900&height=70&lines=Kode+ini+ditulis+dengan+darah...+%F0%9F%A9%B8;Aku+menguliti+bug+sampai+ke+tulang+%F0%9F%A6%B4;Setiap+error+kubantai+tanpa+ampun+%F0%9F%AA%93;Fullstack+Developer+%F0%9F%94%AA;Open+for+freelance+projects+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,21 +13,24 @@
   <img src="https://img.shields.io/github/followers/HattarajasaMartin?style=for-the-badge&logo=github&label=Pengikut%20setia&color=8a0303&labelColor=0a0000" alt="followers" />
 </div>
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## 🔪 Otopsi Developer
 
 ```diff
-- Bug: hidup tenang di dalam kode
-+ Martin: datang membawa pisau bedah
+- Bug: bersembunyi di balik ribuan baris kode
+- Bug: berteriak minta ampun
++ Martin: menyeret mereka keluar satu per satu
++ Martin: tangan berlumuran darah, build berhasil
 ```
 
 - 🩸 Fullstack developer, membedah dari frontend sampai backend
 - 💼 Freelancer di **Fastwork**, menghidupkan website & aplikasi bisnis kecil
 - 🪓 Senjata: **Next.js, TypeScript, Tailwind, Express, Prisma, Laravel**
+- 🫀 Jantung berdetak di setiap deploy yang sukses
 - 🧠 Otak terus diasah, karena kegelapan nggak pernah berhenti berkembang
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## ☠️ Panggil Dari Neraka
 
@@ -42,7 +41,7 @@
   <a href="mailto:hattarajasamartin@gmail.com"><img src="https://img.shields.io/badge/Email-8a0303?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## 🦴 Peralatan Bedah
 
@@ -62,7 +61,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## 🩸 Rekam Medis Korban
 
@@ -73,7 +72,7 @@
   <img src="https://streak-stats.demolab.com/?user=HattarajasaMartin&hide_border=true&background=0a0000&ring=ff0000&fire=ff0000&currStreakNum=ff0000&sideNums=ff0000&currStreakLabel=ff0000&sideLabels=d9d9d9&dates=8b8b8b" />
 </div>
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## 💓 EKG Terakhir
 
@@ -81,7 +80,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HattarajasaMartin&bg_color=0a0000&color=ff0000&line=cc0000&point=ffffff&area=true&area_color=8a0303&hide_border=true" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-drip.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
 
 ## 🐍 Ular Pemakan Kontribusi
 
@@ -95,4 +94,4 @@
   <i>"Bug yang baik adalah bug yang sudah dikubur."</i> 🪦
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:4a0000,100:8a0303&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/HattarajasaMartin/HattarajasaMartin/main/assets/blood-divider.svg?v=1" width="100%" />
